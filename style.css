@@ -23,7 +23,7 @@
 }
 .nav .button-nav{
     text-decoration: none;
-    color: greenyellow;
+    color: midnightblue;
     background-color: paleturquoise;
     padding: 5px;
     border-radius: 10px 10px;
@@ -53,4 +53,19 @@
     border: solid 1px midnightblue;
     padding: 10px 20px;
     border-radius: 30px;
+}
+.hero-tittle{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.content-1{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.content-web{
+    margin-top: 100px;
 }
