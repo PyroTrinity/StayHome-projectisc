@@ -40,6 +40,9 @@
 .mt-20{
     margin-top: 20px;
 }
+.mt-60{
+    margin-top: 60px;
+}
 .btn-1{
     text-decoration: none;
     color: white;
@@ -68,4 +71,37 @@
 }
 .content-web{
     margin-top: 100px;
+    margin-bottom: 100px;
+}
+.content-2 {
+    justify-content: center;
+    text-align: center;
+}
+
+.Heading{
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.wadah-card {
+    justify-content: center;
+    display:flex;
+    gap: 50px;
+}
+
+
+.card {
+    width: Fixed (239px)px;
+    height: Fixed (324px)px;
+    top: 1386px;
+    padding: 16px 16px 16px 16px;
+    gap: 10px;
+    border-radius: 16px;
+    opacity: 0px;
+    box-shadow: 0px 4px 8px 0px #00000040;
+    align-items: center;
 }
